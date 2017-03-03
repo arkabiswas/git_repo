@@ -1,0 +1,223 @@
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\bin\PPC.FDA.Webapp.dll
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\bin\PPC.FDA.Webapp.xml
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.ActRequestEmail.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.AddConsult.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.AddProductDetails.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.AddToWL.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.AdvancedSearchControl.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.AlternateSearchView.aspx.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.ArchiveSearch.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.AssignConsult.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.AssignConsultPerson.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.CalenderView.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.ChangePassword.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.Comments.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.CompletedConsults.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.CompletedWatchlist.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.ConsolidateWatchList.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.ManualAdd.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.SEDrugNames.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.DatasourceDetail.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.DatasourceDeleteWarning.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.DatasourceWarning.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.WebForm1.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.DefaultSearchView.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.DeleteConfirm.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.DeleteRecord.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.DeleteRecordConfirm.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.DeleteRecordFinish.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.Disclaimer.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.DownloadCompletedWatchlist.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.DownloadWL.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.DynamicWeights.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.EditConsult.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.EditConsultSearch.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.ErrorPage.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.FeedbackEmail.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.Global.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.hashpw.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.Help.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.Home.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.LoginNewsControl.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.Logout.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.ModifyDatasource.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.ModifyPickList.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.News.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.NewsActionPage.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.NewsControl.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.NewSearchResults.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.PageResults.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.PasswordPolicies.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.ProductDetail.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.Refreshdatasources.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.RefreshStarted.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.RequestAccount.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.ResetPassword.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.Search.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.SearchBox.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.SelectDatasource.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.SessionControl.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.SetThreshold.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.Settings.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.settingstest.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.SimpleSearchControl.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.StartSearch.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.TrackingHeader.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.TrackingHeaderNoNav.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.UpdateEmail.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.UserAdmin.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.UserEdit.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.WatchList.resources
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\WebApp.vbproj.GenerateResource.Cache
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.FDA.Webapp.dll
+C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\obj\Release\PPC.FDA.Webapp.xml
+C:\local code\Projects\POCA2\WebApp\bin\PPC.FDA.Webapp.dll
+C:\local code\Projects\POCA2\WebApp\bin\PPC.FDA.Webapp.xml
+C:\local code\Projects\POCA2\WebApp\obj\Release\ResolveAssemblyReference.cache
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.ActRequestEmail.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.AddConsult.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.AddProductDetails.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.AddToWL.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.AdvancedSearchControl.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.AlternateSearchView.aspx.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.ArchiveSearch.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.AssignConsult.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.AssignConsultPerson.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.CalenderView.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.ChangePassword.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.Comments.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.CompletedConsults.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.CompletedWatchlist.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.ConsolidateWatchList.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.ManualAdd.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.SEDrugNames.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.DatasourceDetail.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.DatasourceDeleteWarning.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.DatasourceWarning.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.WebForm1.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.DefaultSearchView.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.DeleteConfirm.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.DeleteRecord.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.DeleteRecordConfirm.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.DeleteRecordFinish.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.Disclaimer.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.DownloadCompletedWatchlist.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.DownloadWL.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.DynamicWeights.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.EditConsult.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.EditConsultSearch.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.ErrorPage.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.FeedbackEmail.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.Global.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.hashpw.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.Help.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.Home.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.LoginNewsControl.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.Logout.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.ModifyDatasource.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.ModifyPickList.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.News.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.NewsActionPage.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.NewsControl.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.NewSearchResults.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.PageResults.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.PasswordPolicies.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.ProductDetail.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.Refreshdatasources.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.RefreshStarted.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.RequestAccount.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.ResetPassword.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.Search.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.SearchBox.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.SelectDatasource.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.SessionControl.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.SetThreshold.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.Settings.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.settingstest.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.SimpleSearchControl.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.StartSearch.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.TrackingHeader.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.TrackingHeaderNoNav.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.UpdateEmail.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.UserAdmin.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.UserEdit.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.WatchList.resources
+C:\local code\Projects\POCA2\WebApp\obj\Release\WebApp.vbproj.GenerateResource.Cache
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.FDA.Webapp.dll
+C:\local code\Projects\POCA2\WebApp\obj\Release\PPC.FDA.Webapp.xml
+C:\POCA2.4_Final\POCA\bin\PPC.FDA.Webapp.dll
+C:\POCA2.4_Final\POCA\bin\PPC.FDA.Webapp.xml
+C:\POCA2.4_Final\POCA\obj\Release\ResolveAssemblyReference.cache
+C:\POCA2.4_Final\POCA\obj\Release\PPC.ActRequestEmail.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.AddConsult.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.AddProductDetails.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.AddToWL.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.AdvancedSearchControl.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.AlternateSearchView.aspx.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.ArchiveSearch.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.AssignConsult.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.AssignConsultPerson.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.CalenderView.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.ChangePassword.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.Comments.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.CompletedConsults.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.CompletedWatchlist.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.ConsolidateWatchList.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.ManualAdd.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.SEDrugNames.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.DatasourceDetail.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.DatasourceDeleteWarning.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.DatasourceWarning.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.WebForm1.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.DefaultSearchView.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.DeleteConfirm.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.DeleteRecord.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.DeleteRecordConfirm.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.DeleteRecordFinish.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.Disclaimer.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.DownloadCompletedWatchlist.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.DownloadWL.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.DynamicWeights.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.EditConsult.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.EditConsultSearch.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.ErrorPage.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.FeedbackEmail.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.Global.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.hashpw.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.Help.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.Home.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.LoginNewsControl.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.Logout.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.ModifyDatasource.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.ModifyPickList.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.News.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.NewsActionPage.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.NewsControl.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.NewSearchResults.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.PageResults.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.PasswordPolicies.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.ProductDetail.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.Refreshdatasources.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.RefreshStarted.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.RequestAccount.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.ResetPassword.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.Search.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.SearchBox.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.SelectDatasource.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.SessionControl.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.SetThreshold.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.Settings.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.settingstest.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.SimpleSearchControl.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.StartSearch.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.TrackingHeader.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.TrackingHeaderNoNav.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.UpdateEmail.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.UserAdmin.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.UserEdit.resources
+C:\POCA2.4_Final\POCA\obj\Release\PPC.WatchList.resources
+C:\POCA2.4_Final\POCA\obj\Release\GenerateResource.read.1.tlog
+C:\POCA2.4_Final\POCA\obj\Release\GenerateResource.write.1.tlog
+C:\POCA2.4_Final\POCA\obj\Release\PPC.FDA.Webapp.dll
+C:\POCA2.4_Final\POCA\obj\Release\PPC.FDA.Webapp.xml
