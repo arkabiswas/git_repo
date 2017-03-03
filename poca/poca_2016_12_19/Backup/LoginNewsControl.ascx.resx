@@ -1,0 +1,22 @@
+<%@ Register TagPrefix="uc1" TagName="TrackingHeader" Src="TrackingHeader.ascx" %>
+<%@ Page Language="vb" AutoEventWireup="false" Codebehind="NewsActionPage.aspx.vb" Inherits="PPC.NewsActionPage" %>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+  <head>
+		<title>Add/Edit News Items</title>
+		<meta name="GENERATOR" content="Microsoft Visual Studio.NET 7.0" />
+		<meta name="CODE_LANGUAGE" content="Visual Basic 7.0" />
+		<meta name="vs_defaultClientScript" content="JavaScript" />
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5" />
+		<link href="Styles.css" type="text/css" rel="stylesheet" />
+		<script src="scripts.js" type="text/javascript" language="javascript"></script>
+		<noscript style="color:Red;font-weight: bold; font-size:medium;">Your browser does not support JavaScript!</noscript>
+</head>
+	<body MS_POSITIONING="GridLayout">
+		<form id="Form1" method="post" runat="server">
+			<uc1:TrackingHeader id="TrackingHeader1" runat="server" Title="Add/Edit News Items" location="<a href='Settings.aspx' style='font-size: 14px; font-weight: bold; '>Return to Settings</a>" />
+
+            <asp:Label id="Label7" AssociatedControlID="DDLNewsItems" style="Z-INDEX: 115; LEFT: 120px; POSITION: absolute; TOP: 130px" runat="server" Width="442px">Select a news item from the list to edit it:</asp:Label>
+			<asp:DropDownList id="DDLNewsItems" style="Z-INDEX: 116; LEFT: 360px; POSITION: absolute; width:auto; min-width:200px; TOP: 130px" runat="server"></asp:DropDownList>
+			<asp:Button id="BTNGetNews" style="Z-INDEX: 125; LEFT: 600px; POSITION: absolute; TOP: 130px" runat="server" Text="Get News Item" CausesValidation="False"></asp:Button>
+		
