@@ -1,0 +1,68 @@
+.NewsBox
+{
+	border-right: black 0px;
+	border-top: black 0px;
+	font: 100% Verdana, Geneva, Arial, Helvetica, sans-serif;
+	border-left: black 0px;
+	width: 310px;
+	border-bottom: black 0px;
+}
+
+.Border
+{
+	border-style: solid;
+	border-color: Black;
+	border-width: 0px;
+	padding-bottom: 10px;
+	padding-right: 10px; /*	position:relative; */
+}
+
+.trimmer
+{
+	padding: -3px;
+	margin: -3px;
+}
+
+.NewsHeader
+{
+	color: White;
+	background-color: Navy;
+	font-size: 100%;
+	font-weight: bold;
+	text-decoration: none;
+	text-indent: 1px;
+}
+
+.Headline
+{
+	color: Black;
+	font-weight: bold;
+	font-size: 100%;
+	text-decoration: none;
+	text-align: left;
+}
+
+.Headline:Visited
+{
+	color: Black;
+	font-weight: bold;
+	font-size: 100%;
+	text-decoration: none;
+}
+
+.Headline:Hover
+{
+	color: Black;
+	font-weight: bold;
+	font-size: 100%;
+	text-decoration: underline;
+}
+
+
+.Teaser
+{
+	color: Black; /*	position:relative; */
+	text-indent: 20px;
+	font-size: 100%;
+	font-family: Tahoma, Verdana, Arial;
+}
