@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RowSelectorColumn">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\pblomberg\My Documents\VSNET\POCA\WebApp\RowSelectorColumn\RowSelectorColumn.sln">
+</Property><Property Name="Date" Value="Wednesday, September 30, 2009">
+</Property><Property Name="Time" Value="15:12:37 PM">
+</Property></Properties><Event ErrorLevel="0" Project="RowSelectorColumn" Source="RowSelectorColumn.csproj" Description="Project file successfully backed up as C:\Documents and Settings\pblomberg\My Documents\VSNET\POCA\WebApp\RowSelectorColumn\Backup\RowSelectorColumn.csproj">
+</Event><Event ErrorLevel="0" Project="RowSelectorColumn" Source="RowSelectorColumn.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\pblomberg\My Documents\VSNET\POCA\WebApp\RowSelectorColumn\Backup\RowSelectorColumn.csproj.user">
+</Event><Event ErrorLevel="0" Project="RowSelectorColumn" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\pblomberg\My Documents\VSNET\POCA\WebApp\RowSelectorColumn\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RowSelectorColumn" Source="RowSelectorColumn.cs" Description="File successfully backed up as C:\Documents and Settings\pblomberg\My Documents\VSNET\POCA\WebApp\RowSelectorColumn\Backup\RowSelectorColumn.cs">
+</Event><Event ErrorLevel="0" Project="RowSelectorColumn" Source="RowSelectorColumn.resx" Description="File successfully backed up as C:\Documents and Settings\pblomberg\My Documents\VSNET\POCA\WebApp\RowSelectorColumn\Backup\RowSelectorColumn.resx">
+</Event><Event ErrorLevel="0" Project="RowSelectorColumn" Source="RowSelectorColumn.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RowSelectorColumn" Source="RowSelectorColumn.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RowSelectorColumn" Source="RowSelectorColumn.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

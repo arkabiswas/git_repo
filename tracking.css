@@ -1,0 +1,150 @@
+/*body
+{
+	margin-top: 0px;
+	font-size: 5pt;
+	background-image: url(bptrack_detail_bg.jpg);
+	margin-left: 30px;
+	background-repeat: repeat-y;
+	font-family: Tahoma, Verdana, Arial;
+}*/
+
+body
+{
+	background-image: url(header/bptrack_detail_bg.jpg);
+	background-repeat: repeat-y;
+}
+
+.gContentSection
+{
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 100%;
+	color: Black;
+	background-color: White;
+}
+
+.logostyle
+{
+	background-image: url(header/bptrack_logo_bg.jpg);
+	background-repeat: repeat-x;
+	background-color: White;
+	/*position: relative;
+	left: 30px;*/
+}
+
+.tabstyle
+{
+	BACKGROUND-POSITION-Y: bottom;
+	background-image: url(header/bptrack_tab_bg.jpg);
+	background-repeat: repeat-x;
+}
+
+.header
+{
+	font-weight: bold;
+	font-size: 100%;
+	color: white;
+	font-family: Tahoma, Verdana, Arial;
+}
+
+	
+.infobarlink
+{
+	font-size: 100%;
+	font-weight: bold;
+	color: white;
+	font-family: Tahoma, Verdana, Arial;
+	text-decoration: none;
+}
+
+.infobarlink:Visited
+{
+	font-size: 100%;
+	font-weight: bold;
+	color: white;
+	font-family: Tahoma, Verdana, Arial;
+	text-decoration: none;
+}
+
+.infobarlink:Hover
+{
+	font-size: 100%;
+	font-weight: bold;
+	color: white;
+	font-family: Tahoma, Verdana, Arial;
+	text-decoration: underline;
+}
+
+.breadcrumb
+{
+	font-size: 100%;
+	font-weight: bold;
+	color: black;
+	font-family: Tahoma, Verdana, Arial;
+	text-decoration: none;
+}
+
+.login
+{
+	border-right: black thin solid;
+	border-top: black thin solid;
+	font-weight: bold;
+	font-size: 100%;
+	border-left: black thin solid;
+	color: white;
+	border-bottom: black thin solid;
+	font-family: Tahoma, Verdana, Arial;
+	background-color: #323232;
+}
+
+.loginText
+{
+	font-size: 80%;
+}
+
+.bctable
+{
+	border-top: black thin solid;
+	background-image: none;
+	background-color: #a4c8dc;
+}
+
+.ErrorPage
+{
+ font-size: 80%;
+ font-family: Tahoma, Verdana, Arial;	
+ color:Red;
+}
+
+.searcharea
+{
+	font-size: 100%;
+	font-family: Tahoma, Verdana, Arial;
+	text-align: center;
+	border: 1px dashed black;
+	background-color: #eee;
+}
+
+.searchareafont
+{
+	font-size: 100%;
+	font-family: Tahoma, Verdana, Arial;
+	text-align: center;
+}
+
+.searcharealist
+{
+	font-size:100%;
+	font-family:Tahoma, Verdana, Arial;
+}
+
+.searchresults
+{
+	font-size: 100%;
+}
+
+.DetailSection
+{
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 80%;
+	width: 100%;
+}
