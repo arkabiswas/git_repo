@@ -1,4 +1,0 @@
-C:\Source_code\POCA\AdaptiveAlgorithm\bin\Debug\AdaptiveAlgorithm.dll
-C:\Source_code\POCA\AdaptiveAlgorithm\bin\Debug\AdaptiveAlgorithm.pdb
-C:\Source_code\POCA\AdaptiveAlgorithm\obj\Debug\AdaptiveAlgorithm.dll
-C:\Source_code\POCA\AdaptiveAlgorithm\obj\Debug\AdaptiveAlgorithm.pdb
