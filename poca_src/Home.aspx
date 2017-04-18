@@ -7,7 +7,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 	<head>
-		<title>Home</title>
+		<title>POCA on AWS</title>
 		<meta content="Microsoft Visual Studio.NET 7.0" name="GENERATOR" />
 		<meta content="Visual Basic 7.0" name="CODE_LANGUAGE" />
 		<meta content="JavaScript" name="vs_defaultClientScript" />
