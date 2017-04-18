@@ -1,0 +1,84 @@
+
+<DATETIME>6/14/2011 9:07:23 AM</DATETIME>
+<FULLNAME>p b</FULLNAME>
+<EMAIL><peter.blomberg@platinumsolutions.com></EMAIL>
+<GROUP>Administrators</GROUP>
+<USERNAME>peterb</USERNAME>
+<SOURCE>PPC.FDA.Webapp</SOURCE>
+<INNEREXCEPTION></INNEREXCEPTION>
+<ERRORMESSAGE>*** DEBUG TESTING ERROR ***</ERRORMESSAGE>
+<STACKTRACE>   at PPC.Comments.Page_Load(Object sender, EventArgs e) in C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\Comments.aspx.vb:line 27
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</STACKTRACE>
+
+
+<DATETIME>6/14/2011 12:14:29 PM</DATETIME>
+<FULLNAME>p b</FULLNAME>
+<EMAIL><peter.blomberg@platinumsolutions.com></EMAIL>
+<GROUP>Administrators</GROUP>
+<USERNAME>peterb</USERNAME>
+<SOURCE>PPC.FDA.Webapp</SOURCE>
+<INNEREXCEPTION></INNEREXCEPTION>
+<ERRORMESSAGE>*** DEBUG TESTING ERROR ***</ERRORMESSAGE>
+<STACKTRACE>   at PPC.Comments.Page_Load(Object sender, EventArgs e) in C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\Comments.aspx.vb:line 27
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</STACKTRACE>
+
+
+<DATETIME>6/14/2011 12:17:05 PM</DATETIME>
+<FULLNAME>p b</FULLNAME>
+<EMAIL><peter.blomberg@platinumsolutions.com></EMAIL>
+<GROUP>Administrators</GROUP>
+<USERNAME>peterb</USERNAME>
+<SOURCE>PPC.FDA.Webapp</SOURCE>
+<INNEREXCEPTION></INNEREXCEPTION>
+<ERRORMESSAGE>*** DEBUG TESTING ERROR ***</ERRORMESSAGE>
+<STACKTRACE>   at PPC.Comments.Page_Load(Object sender, EventArgs e) in C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\Comments.aspx.vb:line 27
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</STACKTRACE>
+
+
+<DATETIME>6/14/2011 12:21:32 PM</DATETIME>
+<FULLNAME>p b</FULLNAME>
+<EMAIL><peter.blomberg@platinumsolutions.com></EMAIL>
+<GROUP>Administrators</GROUP>
+<USERNAME>peterb</USERNAME>
+<SOURCE>PPC.FDA.Webapp</SOURCE>
+<INNEREXCEPTION></INNEREXCEPTION>
+<ERRORMESSAGE>*** DEBUG TESTING ERROR ***</ERRORMESSAGE>
+<STACKTRACE>   at PPC.Comments.Page_Load(Object sender, EventArgs e) in C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\Comments.aspx.vb:line 27
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</STACKTRACE>
+
+
+<DATETIME>6/14/2011 12:26:30 PM</DATETIME>
+<FULLNAME>p b</FULLNAME>
+<EMAIL><peter.blomberg@platinumsolutions.com></EMAIL>
+<GROUP>Administrators</GROUP>
+<USERNAME>peterb</USERNAME>
+<SOURCE>PPC.FDA.Webapp</SOURCE>
+<INNEREXCEPTION></INNEREXCEPTION>
+<ERRORMESSAGE>*** DEBUG TESTING ERROR ***</ERRORMESSAGE>
+<STACKTRACE>   at PPC.Comments.Page_Load(Object sender, EventArgs e) in C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\Comments.aspx.vb:line 27
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</STACKTRACE>
+
+
+<DATETIME>6/14/2011 12:48:10 PM</DATETIME>
+<FULLNAME>p b</FULLNAME>
+<EMAIL><peter.blomberg@platinumsolutions.com></EMAIL>
+<GROUP>Administrators</GROUP>
+<USERNAME>peterb</USERNAME>
+<SOURCE>PPC.FDA.Webapp</SOURCE>
+<INNEREXCEPTION></INNEREXCEPTION>
+<ERRORMESSAGE>*** DEBUG TESTING ERROR ***</ERRORMESSAGE>
+<STACKTRACE>   at PPC.Comments.Page_Load(Object sender, EventArgs e) in C:\Documents and Settings\pblomberg\My Documents\Visual Studio 2008\Projects\POCA2\WebApp\Comments.aspx.vb:line 27
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</STACKTRACE>
+
